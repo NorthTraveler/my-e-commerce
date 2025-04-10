@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1726223308281,
+      "tag": "0000_sturdy_kang",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1726670074408,
+      "tag": "0001_small_morph",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1728658339102,
+      "tag": "0002_lumpy_rictor",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1738989911122,
+      "tag": "0003_watery_smasher",
+      "breakpoints": true
+    }
+  ]
+}
